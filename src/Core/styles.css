@@ -56,3 +56,27 @@ footer {
 footer h3 a {
   color: black;
 }
+
+footer {
+  display: flex;
+  flex-direction: column;
+}
+
+.socials__container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.socials__container a i {
+  font-size: 30px;
+}
+.socials__container a {
+  color: black;
+  width: 100px;
+  border-radius: 10px;
+  padding: 8px;
+}
+
+.socials__container a:hover {
+  color: white;
+  background-color: blueviolet;
+}

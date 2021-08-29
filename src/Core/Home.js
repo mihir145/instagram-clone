@@ -239,6 +239,23 @@ const Home = () => {
             Mihir Muchhadiya
           </a>
         </h3>
+        <div className="socials__container">
+          <a href="https://github.com/mihir145" target="blank">
+            <i className="fa fa-github"></i>
+          </a>
+          <a
+            href="https://www.linkedin.com/in/mihir-muchhadiya-66970116a/"
+            target="blank"
+          >
+            <i className="fa fa-linkedin"></i>
+          </a>
+          <a href="https://twitter.com/MuchhadiyaMihir" target="blank">
+            <i className="fa fa-twitter"></i>
+          </a>
+          <a href="mailto:mihirmuchhadiya145@gmail.com" target="blank">
+            <i className="fa fa-envelope"></i>
+          </a>
+        </div>
       </footer>
     </div>
   );
