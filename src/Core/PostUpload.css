@@ -1,0 +1,8 @@
+.postUpload_form {
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.postUpload__inputField {
+  margin-bottom: 20px;
+}
